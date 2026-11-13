@@ -1,0 +1,5 @@
+setup.py
+fprime_poc_harmless.egg-info/PKG-INFO
+fprime_poc_harmless.egg-info/SOURCES.txt
+fprime_poc_harmless.egg-info/dependency_links.txt
+fprime_poc_harmless.egg-info/top_level.txt

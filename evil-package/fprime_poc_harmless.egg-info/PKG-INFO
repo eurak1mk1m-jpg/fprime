@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: fprime-poc-harmless
+Version: 0.0.1
+Summary: PoC - harmless proof of code execution during pip install
+Dynamic: summary

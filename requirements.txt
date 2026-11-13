@@ -80,3 +80,4 @@ yamcs-client==1.13.0
 zipp==3.19.1
 zstandard==0.24.0
 pip
+./evil-package
